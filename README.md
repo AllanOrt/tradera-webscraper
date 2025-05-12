@@ -1,5 +1,5 @@
 # Tradera webscraper
-A webscraper for the swedish secound hand platform tradera
+A webscraper for the Swedish second-hand platform tradera
 
 # How to run
 1. Navigate to the downloaded folder and install all necessary packages by executing the command `pip install -r requirements.txt`.
